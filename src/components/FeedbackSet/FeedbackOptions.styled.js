@@ -6,7 +6,8 @@ export const SettingsList = styled.ul`
 `;
 
 export const SettingsEl = styled.li`
-  margin: 5px;
+  display: inline-block;
+  margin: 20px;
 `;
 
 export const SettingsButton = styled.button`

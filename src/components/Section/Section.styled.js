@@ -8,6 +8,8 @@ export const Sections = styled.section`
   border: 1px solid #ddd;
   border-radius: 5px;
   background-color: #f9f9f9;
+  align-content: center;
+  text-align: center;
 `;
 
 export const Text = styled.h2`
